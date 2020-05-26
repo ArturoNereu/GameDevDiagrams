@@ -1,4 +1,4 @@
-# Game Dev Animated Diagrams
+# Game Dev Diagrams
 A Unity project to explain the Stack, the Heap, GC and Allocation.
 
 #### The Stack
