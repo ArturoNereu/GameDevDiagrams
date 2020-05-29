@@ -1,5 +1,5 @@
 # Game Dev Diagrams
-A Unity project to explain the Stack, the Heap, GC and Allocation.
+A Unity project with animations (made using Timeline) and diagrams to support the learning of game development related concepts.
 
 #### The Stack
 ![](https://github.com/ArturoNereu/StackAndHeap/blob/master/Recordings/StackAnimation.gif)
